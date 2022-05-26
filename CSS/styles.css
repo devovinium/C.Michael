@@ -30,7 +30,7 @@ font-family: 'VT323', monospace;
   -moz-border-radius: 28;
   border-radius: 28px;
   font-family: Arial;
-  color: #ffffff;
+  color: #EAF6F6;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
@@ -121,6 +121,11 @@ font-family: 'VT323', monospace;
 a{
   color: #11999E;
   padding-right: 1%;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
 }
 
 body{
